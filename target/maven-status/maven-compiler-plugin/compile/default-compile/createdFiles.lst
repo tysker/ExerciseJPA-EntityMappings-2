@@ -1,0 +1,6 @@
+entity\Address_.class
+entity\Customer_.class
+entity\Address.class
+entity\Customer.class
+utils\Tester.class
+utils\SchemaBuilder.class
